@@ -5,7 +5,8 @@
 
 
 ## Dashboard: 
-[View Dashboard](https://app.powerbi.com/links/HH5SA-6EjJ?ctid=5781ca16-51a6-4e98-9be9-dc2b9d03b82d&pbi_source=linkShare)
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTY5Y2RlMTgtYmE3Yy00ZGE1LWJjNDEtOTFjOWM3ZmIwYWJlIiwidCI6IjU3ODFjYTE2LTUxYTYtNGU5OC05YmU5LWRjMmI5ZDAzYjgyZCJ9)
+
 
 
 
