@@ -1,7 +1,8 @@
 
-| Dashboard image |
+|Hospital  Dashboard  |
 | ----------- |
-|[View Dashboard image](HR_Dashboard.png)|
+|![HR dashboard](HR_Dashboard.png)|
+
 
 
 ## Dashboard: 
