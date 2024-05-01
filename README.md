@@ -90,7 +90,7 @@ Each of these steps was performed iteratively to ensure the dataset was clean, r
 
 | Data cleaning |
 | ----------- |
-|[View Applied steps](Applied_steps.png)|
+|![View Applied steps](Applied_steps.png)|
 
 
 
@@ -98,7 +98,7 @@ Each of these steps was performed iteratively to ensure the dataset was clean, r
 
 | DAX Calculated image|
 | ----------- |
-|[View calculated measures](Calculations_HR.png)|
+|![View calculated measures](Calculations_HR.png)|
 
 
 # Valuable Insights from HR Dashboard
